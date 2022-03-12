@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    background-color: #f2f2f2;
+}
+
+.box-1 {
+    background-color: #f2f2f2;
+    margin-left: 5em;
+    margin-right: 5em;
+    height: 500px;
+    width: 500px
+}
+
+.btn-primary {
+    color: #FFFFFF !important;
+    background-color: rgba(0, 161, 175, 1) !important;
+    border-color: rgba(0, 161, 175, 1) !important;
+}
